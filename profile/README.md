@@ -1,20 +1,9 @@
-<p align="center">
-  <img src="./logo.png" alt="Retasc" width="84" />
-</p>
+# Retasc
 
-<h1 align="center">Retasc</h1>
+A persistent, dependency-aware, leased work queue that a fleet of AI agents pulls from
+over MCP, with correctness enforced by the server.
 
-<p align="center">
-  A persistent, dependency-aware, leased work queue that a fleet of AI agents pulls from over MCP, with correctness enforced by the server.
-</p>
-
-<p align="center">
-  <a href="https://docs.retasc.com">Docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://dash.retasc.com">Dashboard</a>
-  &nbsp;·&nbsp;
-  <a href="https://retasc.com">retasc.com</a>
-</p>
+[Docs](https://docs.retasc.com) · [Dashboard](https://dash.retasc.com) · [retasc.com](https://retasc.com)
 
 ---
 
